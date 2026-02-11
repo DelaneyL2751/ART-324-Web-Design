@@ -1,0 +1,18 @@
+html {
+    background-color: rgb(32, 120, 120);
+    font-family: "Geo", sans-serif;
+    color: rgb(240, 253, 255);
+}
+address {text-align: right;}
+h1 {
+    font-family: "Workbench", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" -26;
+}
+p {
+    color: rgb(0, 255, 191);
+}
